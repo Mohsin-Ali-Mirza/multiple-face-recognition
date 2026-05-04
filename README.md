@@ -1,4 +1,4 @@
-# FYP-Stable
+# Bachelors Final Year Project
 
 # Table Of Contents
 1. **[Face Detection](#1-face-detection)**
